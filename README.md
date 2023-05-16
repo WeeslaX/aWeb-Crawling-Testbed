@@ -1,6 +1,6 @@
 # Chrome GDrive Folder Browser
 
-Runs a python script that utilises chrome web driver to visit and screenshot all end nodes/folders starting from a user-defined root (website). 
+Runs a python script that utilises chrome web driver to visit and screenshot all end nodes/folders starting from a user-defined root  website. 
 
 <br>
 
@@ -13,5 +13,6 @@ Runs a python script that utilises chrome web driver to visit and screenshot all
 
 ## Setup Instructions
 1. Clone project to local directory
-2. Modify yaml file with Gdrive credentials and Gdrive url.
-3. Open a terminal and run crawl.exe
+2. Verify the Google browser version. Download and overwrite chromedriver.exe with the correct version. 
+3. Modify yaml file with Gdrive credentials and Gdrive url. Save the changes.
+4. Open a terminal and run ``crawl.exe``
