@@ -1,0 +1,11 @@
+# GDrive Login Credentials 
+email: '<enter email>'
+pw: '<enter pw>'
+# Starting GDrive Website
+root: '<enter start gdrive website>'
+# Transition timings (in seconds)
+login_sleep_time: 5
+page_forward_transition_sleep_time: 5
+page_backward_transition_sleep_time: 5
+# Starting screenshot and url index
+screenshot_count: 1
